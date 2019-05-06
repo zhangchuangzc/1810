@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RequestMapping("page")
 class PageController {
-    //北湖
+    //北湖很漂亮
     @RequestMapping("totree")
     public String totree() {
 
