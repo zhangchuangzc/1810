@@ -17,4 +17,9 @@ class PageController {
 
         return "goods";
     }
+      @RequestMapping("togoods")
+    public String togoods(){
+
+        return "goods";
+    }
 }
